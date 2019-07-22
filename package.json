@@ -1,0 +1,14 @@
+{
+  "name": "vue-elvns-gitbtn",
+  "version": "1.0.0",
+  "description": "github buttons of vue  by elvns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elvns",
+  "license": "ISC",
+  "dependencies": {
+    "vue-github-button": "^1.0.8"
+  }
+}
